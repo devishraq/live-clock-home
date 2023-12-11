@@ -11,7 +11,7 @@ const Time = () => {
   }, []);
 
   const tailwindColors = [
-    "text-green-400",
+    "text-red-700",
     "text-violet-400",
     "text-yellow-400/80",
   ];
